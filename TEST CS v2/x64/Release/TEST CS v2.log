@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\rayan\source\repos\OP-CARJACK\TEST CS v2\memory.h(28,62): warning C4244: 'argument' : conversion de 'uintptr_t' en 'DWORD', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+C:\Users\rayan\source\repos\OP-CARJACK\TEST CS v2\memory.h(51,73): warning C4244: 'argument' : conversion de 'const uintptr_t' en 'DWORD', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+  Génération de code en cours
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  TEST CS v2.vcxproj -> C:\Users\rayan\source\repos\OP-CARJACK\x64\Release\TEST CS v2.exe
